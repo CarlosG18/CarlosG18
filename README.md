@@ -1,11 +1,10 @@
 # Carlos Gabriel M. da Silva
 
-Olá! Me chamo Carlos Gabriel (@CarlosG18) e estou estudando para me tornar um desenvolvedor fullstack! <br>
+Olá! Me chamo Carlos Gabriel (@CarlosG18) e estou estudando para me tornar um desenvolvedor backend! <br>
 Sou bacherel em Ciêcias e Tecnologia pela Escola de Ciências e Tecnologia da UFRN (ECT).<br>
 Atualmente estou cursando Engenharia da Computação na UFRN. <br>
 
 ## Estou aprendendo
-<img width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> <img width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
 <img width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 
 ## Contatos
